@@ -1,0 +1,62 @@
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.size-20{
+    font-size: 20px;
+}
+
+.dark-color{
+    color: #121420;
+}
+
+.dark-background{
+    background-color: #121420;
+}
+
+.green-color{
+    color: #588157;
+}
+
+.green-background{
+    background-color: #588157;
+}
+
+.white-color{
+    color: #FAF9F9;
+}
+
+.white-background{
+    background-color: #FAF9F9;
+}
+
+.yellow-color{
+    color: #FFD500;
+}
+
+.yellow-background{
+    background-color: #FFD500;
+}
+
+.title-size{
+    font-size: 40px;
+    font-weight:bold;
+}
+
+
+/* Search bar css */
+.search-radius{
+    border-radius: 15px;
+}
+
+/* Carousel */
+.carousel-radius{
+    border-radius: 30px;
+}
+
+/* About : Offers */
+
+.card-background{
+    background-color: #f1f1f1;
+}
+
