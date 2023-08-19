@@ -1,3 +1,4 @@
+{{-- Saya mengerjakan bagian front end --}}
 @extends('components.index')
 {{-- @extends('components.nav') --}}
 
@@ -63,5 +64,5 @@
             <small class="text-end col-2">Kunjungi toko</small>
         </div>
     </footer> --}}
-    
+
 @endsection
